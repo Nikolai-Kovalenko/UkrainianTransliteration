@@ -1,0 +1,12 @@
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\bin\Debug\net7.0\UkrainianTransliterator.deps.json
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\bin\Debug\net7.0\UkrainianTransliterator.dll
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\bin\Debug\net7.0\UkrainianTransliterator.pdb
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.csproj.AssemblyReference.cache
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.AssemblyInfoInputs.cache
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.AssemblyInfo.cs
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.csproj.CoreCompileInputs.cache
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.dll
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\refint\UkrainianTransliterator.dll
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\UkrainianTransliterator.pdb
+F:\Project\UkrainianTransliteration\UkrainianTransliterator\obj\Debug\net7.0\ref\UkrainianTransliterator.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrainianTransliterator", "UkrainianTransliterator\UkrainianTransliterator.csproj", "{37DFAB07-69BB-47A6-B305-883FC30A3788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrainianTransliterator.Tests", "UkrainianTransliterator.Tests\UkrainianTransliterator.Tests.csproj", "{5AB94214-C47E-4999-AC7F-895B762D78D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DFAB07-69BB-47A6-B305-883FC30A3788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DFAB07-69BB-47A6-B305-883FC30A3788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DFAB07-69BB-47A6-B305-883FC30A3788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DFAB07-69BB-47A6-B305-883FC30A3788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB94214-C47E-4999-AC7F-895B762D78D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB94214-C47E-4999-AC7F-895B762D78D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB94214-C47E-4999-AC7F-895B762D78D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB94214-C47E-4999-AC7F-895B762D78D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
