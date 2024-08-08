@@ -33,6 +33,8 @@ public class TransliteratorTests
 
     [Theory]
     [InlineData("Привіт, світ! Як справи?", "Pryvit, svit! Yak spravy?")]
+    [InlineData("Яка чудова юрба, що зібралася на площі! Говорять, що наступного дня збирається зграя в Івано-Франківську."
+        , "Yaka chudova yurba, shcho zibralasia na ploshchi! Hovoriat, shcho nastupnoho dnia zbyraietsia zghraia v Ivano-Frankivsku.")]
     [InlineData("1234", "1234")]
     [InlineData(" ", " ")]
     [InlineData("Привіт!123", "Pryvit!123")]
